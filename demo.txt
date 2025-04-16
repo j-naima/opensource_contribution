@@ -1,6 +1,1 @@
-This is demo file for practice open source code
-
-This code written by me
 print("Hello World")
-
-new code
