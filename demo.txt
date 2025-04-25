@@ -2,3 +2,4 @@ print("Hello World");
 
 
 "This text newly added now"
+"A new text!"
